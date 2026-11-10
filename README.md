@@ -2,7 +2,7 @@
 
 # Hi, I'm Jason 👋
 
-**Software Developer · Game Developer**
+**Software Developer · Game Server Development**
 
 Samarinda, Indonesia
 
